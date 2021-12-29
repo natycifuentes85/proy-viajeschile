@@ -1,0 +1,102 @@
+/*font-family: 'Buda', cursive;
+font-family: 'Fira Sans', sans-serif;*/
+
+h2, .navbar a{
+    font-family: 'Buda', cursive;
+}
+
+p{
+    font-family: 'Fira Sans', sans-serif;
+}
+
+/* .navbar{
+    background-color: transparent !important;    
+} */
+
+.navbar a{
+    font-size: large;
+}
+
+.navbar
+{  
+    background-color:#014360;
+    opacity: 0.5; 
+    filter:(opacity=50);       
+}
+
+.carousel-item img{
+    max-height: 700px !important;
+    
+}
+
+.card-image-top{
+    height: 12vw;
+    object-fit: cover;
+}
+
+/* .carousel-inner{
+    height: 100%;
+    width: 100%;
+} */
+
+h2{
+    text-align: center;
+}
+
+.card i{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+#dest-cont{
+    overflow-y: scroll;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+body{
+    background-color: #f0f0f0;
+    position: relative;
+}
+
+footer{
+    background-color: #004260;
+}
+
+.card-header{
+    background-color: #217fae;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
